@@ -8,6 +8,8 @@ public class Main {
         audi.door="2";
         audi.model="A3";
          test cases for the color of the car
+         test case for immediate requirement
+         is being writeen down
 
 
     }
